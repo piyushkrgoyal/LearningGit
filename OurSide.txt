@@ -1,1 +1,2 @@
 Hello, How are you. We are learning Git
+Second line adding to ckeck from SourceTree
